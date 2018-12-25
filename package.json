@@ -1,12 +1,9 @@
 {
-  "name": "overreacted",
+  "name": "fall-wind-blog",
   "private": true,
   "description": "Overreacted",
   "version": "1.0.0",
-  "author": "Dan Abramov <dan.abramov@me.com>",
-  "bugs": {
-    "url": "https://github.com/gaearon/overreacted.io/issues"
-  },
+  "author": "fall-wind",
   "dependencies": {
     "gatsby": "^2.0.19",
     "gatsby-plugin-feed": "^2.0.8",
@@ -41,7 +38,6 @@
     "gh-pages": "^1.2.0",
     "prettier": "^1.14.2"
   },
-  "homepage": "https://overreacted.io",
   "license": "MIT",
   "scripts": {
     "dev": "gatsby develop",
