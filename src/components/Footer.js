@@ -33,12 +33,12 @@ class Footer extends React.Component {
           github
           {/* autumn wind */}
         </a> &bull;{' '}
-        {/* <a
-          href="https://stackoverflow.com/users/458193/dan-abramov"
+        <a
+          href="https://segmentfault.com/u/fall_wind"
           target="_blank"
           rel="noopener noreferrer">
-          stack overflow
-        </a> */}
+          segmentfault
+        </a>
       </footer>
     )
   }
