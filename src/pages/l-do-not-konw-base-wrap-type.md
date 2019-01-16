@@ -1,6 +1,6 @@
 ---
 title: 基本包装类型
-date: '2018-1-14'
+date: '2018-01-14'
 spoiler: 我曾不知道的JavaScript系列（一）
 ---
 

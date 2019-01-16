@@ -1,6 +1,6 @@
 ---
 title: 减少props改变
-date: '2018-1-10'
+date: '2018-01-10'
 spoiler: React性能优化系列（一）
 ---
 
