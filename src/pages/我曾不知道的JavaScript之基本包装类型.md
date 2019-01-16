@@ -92,7 +92,7 @@ console.log(a.substr(-5))
 ```javascript
 console.log(String.prototype)
 ```
-![image](/string-prototype.png)
+![pic](./stringPrototype.png)
 
 ## 总结
 类似的像`String`的包装类型还有`Number`、`Boolean`；他们作为函数单独调用的时候，是转型函数；又可以与`new`操作符配合，作为基本包装类型的构造函数。
